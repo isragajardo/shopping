@@ -6,4 +6,8 @@
 .cart{
     display: flex;
     flex-direction: row;
+    
+}
+.cart p{
+    color: white;
 }
