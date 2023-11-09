@@ -1,0 +1,9 @@
+.cart img
+{
+    width: 3rem;
+    margin: 1rem;
+}
+.cart{
+    display: flex;
+    flex-direction: row;
+}
